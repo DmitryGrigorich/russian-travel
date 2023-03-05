@@ -1,0 +1,6 @@
+.lead__image_main {
+  position: relative;
+  background-image: url("../../../../images/lead-background.jpg");
+  width: 984px;
+  height: 615px;
+}

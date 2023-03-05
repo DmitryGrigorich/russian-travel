@@ -1,0 +1,12 @@
+.place {
+  margin: 0 auto;
+  padding: 0 0 80px 0;
+  min-height: 584px;
+  display: flex;
+  width: 984px;
+  flex-wrap: wrap;
+}
+
+.place:last-child {
+  padding: 0;
+}
