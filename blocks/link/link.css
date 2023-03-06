@@ -1,9 +1,11 @@
 .link {
   text-decoration: none;
+  -webkit-transition: .4s;
+  -o-transition: .4s;
   transition: .4s;
 }
 
 .link:hover {
-  opacity: .6;
   cursor: pointer;
+  opacity: .6;
 }

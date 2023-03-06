@@ -1,8 +1,9 @@
 .header {
-  position: relative;
   display: flex;
-  justify-content: space-between;
-  width: 1184px;
   height: 52px;
+  justify-content: space-between;
+  margin: 0 auto;
   padding-top: 28px;
+  position: relative;
+  width: 1184px;
 }

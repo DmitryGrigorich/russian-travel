@@ -1,15 +1,10 @@
 .place__website_link {
+  color: white;
+  font-size: 18px;
   font-style: normal;
   font-weight: 400;
-  font-size: 18px;
   line-height: 122%;
-  text-decoration: underline;
   margin: 0;
-  transition: 0.4s;
-  color: white;
+  text-decoration: underline;
 }
 
-.place__website_link:hover {
-  cursor: pointer;
-  opacity: .6;
-}
