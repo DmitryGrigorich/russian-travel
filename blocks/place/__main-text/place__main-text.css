@@ -1,5 +1,5 @@
 @media screen and (max-width: 767px) {
-  .place_main-text {
+  .place__main-text {
     padding: 0 16px;
   }
 }
