@@ -1,7 +1,19 @@
 .lead {
   align-items: center;
   display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  padding: 56px 100px 92px 100px;
+  flex-flow: column wrap;
+  margin: 0 auto;
+  padding-bottom: 92px;
+}
+
+@media screen and (max-width: 1023px) {
+  .lead {
+    padding-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead {
+    padding-bottom: 64px;
+  }
 }

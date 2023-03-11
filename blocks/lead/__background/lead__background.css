@@ -1,6 +1,6 @@
-.lead__image_main {
+.lead__background {
   background-image: url("../../../../images/lead-background.jpg");
-  height: 615px;
-  position: relative;
+  background-size: cover;
+  padding-bottom: 62.5%;
   width: 100%;
 }
