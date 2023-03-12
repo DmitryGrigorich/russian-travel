@@ -5,11 +5,6 @@
   letter-spacing: 2px;
   line-height: 100%;
   margin: 0;
-  padding-bottom: 12px;
+  text-transform: uppercase;
 }
 
-@media screen and (max-width: 1023px) {
-  .place__url-heading {
-    line-height: 100%;
-  }
-}

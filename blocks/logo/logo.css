@@ -1,8 +1,9 @@
 .logo {
-  transition: 0.4s;
+  min-width: 176px;
 }
 
-.logo:hover {
-  cursor: pointer;
-  opacity: .6;
+@media screen and (max-width: 767px) {
+  .logo {
+    min-width: 142px;
+  }
 }
