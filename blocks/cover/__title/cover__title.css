@@ -6,6 +6,7 @@
   margin: 0;
   max-width: 560px;
   text-align: center;
+  padding-bottom: 32px;
 }
 
 @media screen and (max-width: 767px) {
@@ -14,5 +15,6 @@
     line-height: 109%;
     width: 90%;
     min-width: 288px;
+    padding-bottom: 16px;
   }
 }
